@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_5_2.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_2/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_2",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 4092,
+    "height": 2790
+  },
+  "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_2.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

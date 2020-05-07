@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_5",
+  "protocol": "http://iiif.io/api/image",
+  "width": 4188,
+  "height": 3324,
+  "sizes": [
+    {
+      "width": 4188,
+      "height": 3324
+    },
+    {
+      "width": 250,
+      "height": 198
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

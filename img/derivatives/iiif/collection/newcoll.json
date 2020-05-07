@@ -1,0 +1,108 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/collection/newcoll.json",
+  "@type": "sc:Collection",
+  "label": "newcoll",
+  "manifests": [
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_2_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_2_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_2_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_2_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_2_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_2_3"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_2_6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_2_6"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_2_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_2_7"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_3_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_3_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_3_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_3_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_4_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_4_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_4_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_4_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_4_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_4_3"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_5_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_5_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_5_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_5_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_5_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_5_3"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_5_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_5_4"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_6_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_6_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_6_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_6_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_6_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_6_3"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_6_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_6_4"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_6_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "exhibit_6_5"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/fault_tree/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "fault_tree"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_5_4/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "exhibit_5_4",
+  "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/sequence/exhibit_5_4.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_4.json",
+          "label": "front",
+          "width": 3642,
+          "height": 1815,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_5_4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3642,
+                "height": 1815
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_4.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4/full/full/0/default.jpg"
+}
