@@ -5,6 +5,41 @@
   "label": "newcoll",
   "manifests": [
     {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_3"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_4"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_5"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_6"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/enviro_chem_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "enviro_chem_7"
+    },
+    {
       "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/exhibit_2_1/manifest.json",
       "@type": "sc:Manifest",
       "label": "exhibit_2_1"
@@ -103,6 +138,71 @@
       "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/fault_tree/manifest.json",
       "@type": "sc:Manifest",
       "label": "fault_tree"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/melamine_formaldehyde_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "melamine_formaldehyde_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/melamine_formaldehyde_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "melamine_formaldehyde_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_1"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_2"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_3"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_4"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_5"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_6"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_7"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_8"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/moist_9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "moist_9"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/synthetic_resins/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "synthetic_resins"
+    },
+    {
+      "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/trudeau/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "trudeau"
     }
   ]
 }
