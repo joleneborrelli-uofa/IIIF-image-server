@@ -68,6 +68,482 @@
             "height": 1800
           },
           "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_2.json"
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_3.json",
+          "label": "front",
+          "width": 2286,
+          "height": 1734,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_2_3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2286,
+                "height": 1734
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_6.json",
+          "label": "front",
+          "width": 4140,
+          "height": 1344,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_6/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_2_6.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_6/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_6",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2070,
+                "height": 672
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_6.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_7.json",
+          "label": "front",
+          "width": 2635,
+          "height": 2206,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_7/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_2_7.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_7/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_7",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2635,
+                "height": 2206
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_7.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_3_1.json",
+          "label": "front",
+          "width": 2080,
+          "height": 1098,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_3_1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_3_1.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_3_1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_3_1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1040,
+                "height": 549
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_3_1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_3_2.json",
+          "label": "front",
+          "width": 2568,
+          "height": 1644,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_3_2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_3_2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_3_2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_3_2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1284,
+                "height": 822
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_3_2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_4_1.json",
+          "label": "front",
+          "width": 3048,
+          "height": 2304,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_4_1.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1524,
+                "height": 1152
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_4_1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_4_2.json",
+          "label": "front",
+          "width": 3652,
+          "height": 1118,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_4_2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1826,
+                "height": 559
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_4_2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_4_3.json",
+          "label": "front",
+          "width": 3804,
+          "height": 888,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_4_3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_4_3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1902,
+                "height": 444
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_4_3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_1.json",
+          "label": "front",
+          "width": 1647,
+          "height": 2567,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_5_1.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 1647,
+                "height": 2567
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_2.json",
+          "label": "front",
+          "width": 4092,
+          "height": 2790,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_5_2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 4092,
+                "height": 2790
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_3.json",
+          "label": "front",
+          "width": 5052,
+          "height": 1656,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_5_3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 2526,
+                "height": 828
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_4.json",
+          "label": "front",
+          "width": 3642,
+          "height": 1815,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_5_4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_5_4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 3642,
+                "height": 1815
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_5_4.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_1.json",
+          "label": "front",
+          "width": 4740,
+          "height": 3744,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_1/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_6_1.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_1/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_1",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 4740,
+                "height": 3744
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_1.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_2.json",
+          "label": "front",
+          "width": 4201,
+          "height": 3744,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_2/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_6_2.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_2/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_2",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 4201,
+                "height": 3744
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_2.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_3.json",
+          "label": "front",
+          "width": 5616,
+          "height": 3744,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_3/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_6_3.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_3/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_3",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 5616,
+                "height": 3744
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_3.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_4.json",
+          "label": "front",
+          "width": 5616,
+          "height": 3744,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_4/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_6_4.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_4/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_4",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 5616,
+                "height": 3744
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_4.json"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_5.json",
+          "label": "front",
+          "width": 4188,
+          "height": 3324,
+          "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_5/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/exhibit_6_5.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_5/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_6_5",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 4188,
+                "height": 3324
+              },
+              "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_6_5.json"
+            }
+          ]
         }]
       }
     ]
