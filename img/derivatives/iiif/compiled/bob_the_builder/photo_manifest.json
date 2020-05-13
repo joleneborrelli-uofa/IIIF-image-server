@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/compiled/photo/manifest.json",
+  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/compiled/bob_the_builder/photo_manifest.json",
   "@type": "sc:Manifest",
   "label": "Photographic Evidence",
   "metadata": [{
