@@ -21,7 +21,7 @@
     "canvases": [{
         "@type": "sc:Canvas",
         "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/exhibit_2_1.json",
-        "label": "-",
+        "label": "front",
         "width": 1452,
         "height": 1314,
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/exhibit_2_1/full/250,/0/default.jpg",
