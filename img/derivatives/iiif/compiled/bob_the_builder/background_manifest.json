@@ -1,0 +1,586 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/compiled/bob_the_builder/photo_manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Photographic Evidence",
+  "metadata": 
+  [
+    {
+      "label": "Title",
+      "value": "Photographic Evidence"
+    },
+    {
+      "label": "Author(s)",
+      "value": "You"
+    },
+    {
+      "label": "Publication date",
+      "value": "Today"
+    }
+  ],
+  "sequences": 
+  [ {
+    "@type": "sc:Sequence",
+    "canvases": 
+    [
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/trudeau.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/trudeau/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/trudeau.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/trudeau/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/trudeau",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/trudeau.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/synthetic_resins.json",
+        "label": "front",
+        "width": 1224,
+        "height": 1584,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/synthetic_resins/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/synthetic_resins.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/synthetic_resins/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/synthetic_resins",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 612,
+              "height": 792
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/synthetic_resins.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/melamine_formaldehyde_1.json",
+        "label": "front",
+        "width": 1224,
+        "height": 1584,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_1/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/melamine_formaldehyde_1.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_1/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_1",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 612,
+              "height": 792
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/melamine_formaldehyde_1.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/melamine_formaldehyde_2.json",
+        "label": "front",
+        "width": 1224,
+        "height": 1584,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_2/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/melamine_formaldehyde_2.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_2/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_2",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 612,
+              "height": 792
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/melamine_formaldehyde_2.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_1.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_1/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_1.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_1/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_1",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_1.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_2.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_2/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_2.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_2/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_2",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_2.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_3.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_3/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_3.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_3/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_3",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_3.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_4.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_4/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_4.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_4/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_4",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_4.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_5.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_5/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_5.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_5/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_5",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_5.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_6.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_6/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_6.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_6/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_6",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_6.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_7.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_7/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_7.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_7/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_7",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_7.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_8.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_8/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_8.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_8/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_8",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_8.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_9.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_9/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/moist_9.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_9/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_9",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/moist_9.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_1.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_1/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_1.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_1/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_1",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_1.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_2.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_2/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_2.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_2/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_2",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_2.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_3.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_3/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_3.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_3/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_3",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_3.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_4.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_4/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_4.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_4/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_4",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_4.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_5.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_5/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_5.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_5/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_5",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_5.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_6.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_6/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_6.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_6/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_6",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_6.json"
+          }
+        ]
+      },
+      {
+        "@type": "sc:Canvas",
+        "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_7.json",
+        "label": "front",
+        "width": 1275,
+        "height": 1650,
+        "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_7/full/250,/0/default.jpg",
+        "images": [
+          {
+            "@type": "oa:Annotation",
+            "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/annotation/enviro_chem_7.json",
+            "motivation": "sc:painting",
+            "resource": {
+              "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_7/full/full/0/default.jpg",
+              "@type": "dcterms:Image",
+              "format": "image/jpeg",
+              "service": {
+                "@context": "http://iiif.io/api/image/2/context.json",
+                "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_7",
+                "profile": "http://iiif.io/api/image/2/level0.json"
+              },
+              "width": 1275,
+              "height": 1650
+            },
+            "on": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/canvas/enviro_chem_7.json"
+          } ]
+      } ]
+  } ]
+}
