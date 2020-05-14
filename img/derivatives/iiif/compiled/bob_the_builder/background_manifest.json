@@ -3,6 +3,7 @@
   "@id": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/compiled/bob_the_builder/photo_manifest.json",
   "@type": "sc:Manifest",
   "label": "Background Evidence",
+  "attribution" : "Synthetic Resins Technology Handbook. NIIR Board of Consultants and Engineers, Asia Pacific Business Press Inc., 2005., Melamine Formaldehyde. CESEdupack 2019, Granata Design Limited, Cambridge, UK, 2019., Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
   "sequences": 
   [ {
     "@type": "sc:Sequence",
@@ -42,7 +43,6 @@
         "label": "front",
         "width": 1224,
         "height": 1584,
-        "attribution" : "Synthetic Resins Technology Handbook. NIIR Board of Consultants and Engineers, Asia Pacific Business Press Inc., 2005.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/synthetic_resins/full/250,/0/default.jpg",
         "images": [
           {
@@ -71,7 +71,6 @@
         "label": "front",
         "width": 1224,
         "height": 1584,
-        "attribution" : "Melamine Formaldehyde. CESEdupack 2019, Granata Design Limited, Cambridge, UK, 2019.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/melamine_formaldehyde_1/full/250,/0/default.jpg",
         "images": [
           {
@@ -129,7 +128,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_1/full/250,/0/default.jpg",
         "images": [
           {
@@ -158,7 +156,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_2/full/250,/0/default.jpg",
         "images": [
           {
@@ -187,7 +184,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_3/full/250,/0/default.jpg",
         "images": [
           {
@@ -216,7 +212,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_4/full/250,/0/default.jpg",
         "images": [
           {
@@ -245,7 +240,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_5/full/250,/0/default.jpg",
         "images": [
           {
@@ -274,7 +268,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_6/full/250,/0/default.jpg",
         "images": [
           {
@@ -303,7 +296,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_7/full/250,/0/default.jpg",
         "images": [
           {
@@ -332,7 +324,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_8/full/250,/0/default.jpg",
         "images": [
           {
@@ -361,7 +352,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/moist_9/full/250,/0/default.jpg",
         "images": [
           {
@@ -390,7 +380,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_1/full/250,/0/default.jpg",
         "images": [
           {
@@ -419,7 +408,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_2/full/250,/0/default.jpg",
         "images": [
           {
@@ -448,7 +436,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_3/full/250,/0/default.jpg",
         "images": [
           {
@@ -477,7 +464,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_4/full/250,/0/default.jpg",
         "images": [
           {
@@ -506,7 +492,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_5/full/250,/0/default.jpg",
         "images": [
           {
@@ -535,7 +520,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_6/full/250,/0/default.jpg",
         "images": [
           {
@@ -564,7 +548,6 @@
         "label": "front",
         "width": 1275,
         "height": 1650,
-        "attribution" : "Characterization and Failure Analysis of Plastics. ASM International, Materials Park, OH, 2003.",
         "thumbnail": "https://joleneborrelli-uofa.github.io/IIIF-image-server/img/derivatives/iiif/images/enviro_chem_7/full/250,/0/default.jpg",
         "images": [
           {
