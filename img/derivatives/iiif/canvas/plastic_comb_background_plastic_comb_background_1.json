@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/plastic_comb_background_plastic_comb_background_1.json",
+  "label": "Page 1",
+  "width": 1772,
+  "height": 3562,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/plastic_comb_background_plastic_comb_background_1/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/plastic_comb_background_plastic_comb_background_1.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/plastic_comb_background_plastic_comb_background_1/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/plastic_comb_background_plastic_comb_background_1",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 1772,
+        "height": 3562
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/plastic_comb_background_plastic_comb_background_1.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
