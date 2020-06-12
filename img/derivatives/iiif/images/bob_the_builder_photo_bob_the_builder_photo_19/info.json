@@ -1,5 +1,0 @@
----
-layout: none
----
-
-{"@context":"http://iiif.io/api/image/2/context.json","@id":"{{ '/' | absolute_url }}img/derivatives/iiif/images/bob_the_builder_photo_bob_the_builder_photo_19","protocol":"http://iiif.io/api/image","width":4096,"height":3251,"sizes":[{"width":4096,"height":3251},{"width":250,"height":198},{"width":90,"height":71}],"profile":["http://iiif.io/api/image/2/level0.json",{"supports":["cors","sizeByWhListed","baseUriRedirect"]}],"tiles":[{"width":512,"scaleFactors":[1,2,4,8]}]}

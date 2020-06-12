@@ -8,24 +8,24 @@ layout: none
   "label": "newcoll",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bob_the_builder_background/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/background_1/manifest.json",
       "@type": "sc:Manifest",
-      "label": "bob_the_builder_background"
+      "label": "background_1"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/bob_the_builder_photo/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/background_2/manifest.json",
       "@type": "sc:Manifest",
-      "label": "bob_the_builder_photo"
+      "label": "background_2"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/plastic_comb_background/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo_1/manifest.json",
       "@type": "sc:Manifest",
-      "label": "plastic_comb_background"
+      "label": "photo_1"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/plastic_comb_photo/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo_2/manifest.json",
       "@type": "sc:Manifest",
-      "label": "plastic_comb_photo"
+      "label": "photo_2"
     }
   ]
 }

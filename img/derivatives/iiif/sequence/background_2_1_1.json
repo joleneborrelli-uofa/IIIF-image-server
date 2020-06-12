@@ -1,0 +1,150 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/background_2_1_1.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_1.json",
+      "label": "Page 1",
+      "width": 1772,
+      "height": 3562,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_1/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/background_2_1_1.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_1/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_1",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1772,
+            "height": 3562
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_1.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_2.json",
+      "label": "Page 2",
+      "width": 1872,
+      "height": 1478,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_2/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/background_2_1_2.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_2/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_2",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 936,
+            "height": 739
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_2.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_3.json",
+      "label": "Page 3",
+      "width": 1994,
+      "height": 3020,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_3/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/background_2_1_3.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_3/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_3",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 997,
+            "height": 1510
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_3.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_4.json",
+      "label": "Page 4",
+      "width": 1239,
+      "height": 1751,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_4/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/background_2_1_4.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_4/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_4",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1239,
+            "height": 1751
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_4.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_5.json",
+      "label": "Page 5",
+      "width": 1275,
+      "height": 1650,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_5/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/background_2_1_5.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_5/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/background_2_1_5",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 1275,
+            "height": 1650
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/background_2_1_5.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

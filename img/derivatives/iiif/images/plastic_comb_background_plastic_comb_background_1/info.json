@@ -1,5 +1,0 @@
----
-layout: none
----
-
-{"@context":"http://iiif.io/api/image/2/context.json","@id":"{{ '/' | absolute_url }}img/derivatives/iiif/images/plastic_comb_background_plastic_comb_background_1","protocol":"http://iiif.io/api/image","width":1772,"height":3562,"sizes":[{"width":1772,"height":3562},{"width":250,"height":503},{"width":90,"height":181}],"profile":["http://iiif.io/api/image/2/level0.json",{"supports":["cors","sizeByWhListed","baseUriRedirect"]}],"tiles":[{"width":512,"scaleFactors":[1,2,4,8]}]}
