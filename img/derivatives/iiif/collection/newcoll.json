@@ -8,24 +8,14 @@ layout: none
   "label": "newcoll",
   "manifests": [
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/background_1/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/background_3/manifest.json",
       "@type": "sc:Manifest",
-      "label": "background_1"
+      "label": "background_3"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/background_2/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo_3/manifest.json",
       "@type": "sc:Manifest",
-      "label": "background_2"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo_1/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "photo_1"
-    },
-    {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo_2/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "photo_2"
+      "label": "photo_3"
     }
   ]
 }
