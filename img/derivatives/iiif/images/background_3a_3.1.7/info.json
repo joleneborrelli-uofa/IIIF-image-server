@@ -1,0 +1,5 @@
+---
+layout: none
+---
+
+{"@context":"http://iiif.io/api/image/2/context.json","@id":"{{ '/' | absolute_url }}img/derivatives/iiif/images/background_3a_3.1.7","protocol":"http://iiif.io/api/image","width":1239,"height":1754,"sizes":[{"width":1239,"height":1754},{"width":250,"height":354},{"width":90,"height":127}],"profile":["http://iiif.io/api/image/2/level0.json",{"supports":["cors","sizeByWhListed","baseUriRedirect"]}],"tiles":[{"width":512,"scaleFactors":[1,2,4,8]}]}
