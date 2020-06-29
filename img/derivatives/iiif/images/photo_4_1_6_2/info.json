@@ -1,0 +1,5 @@
+---
+layout: none
+---
+
+{"@context":"http://iiif.io/api/image/2/context.json","@id":"{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_4_1_6_2","protocol":"http://iiif.io/api/image","width":2437,"height":2558,"sizes":[{"width":2437,"height":2558},{"width":250,"height":262},{"width":90,"height":94}],"profile":["http://iiif.io/api/image/2/level0.json",{"supports":["cors","sizeByWhListed","baseUriRedirect"]}],"tiles":[{"width":512,"scaleFactors":[1,2,4,8]}]}
