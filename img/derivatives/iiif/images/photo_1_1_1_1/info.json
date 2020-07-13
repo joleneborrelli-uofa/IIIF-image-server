@@ -2,4 +2,4 @@
 layout: none
 ---
 
-{"@context":"http://iiif.io/api/image/2/context.json","@id":"{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_1_1_1_1","protocol":"http://iiif.io/api/image","width":1452,"height":1314,"sizes":[{"width":1452,"height":1314},{"width":250,"height":226},{"width":90,"height":81},{"width":90,"height":81},{"width":90,"height":81}],"profile":["http://iiif.io/api/image/2/level0.json",{"supports":["cors","sizeByWhListed","baseUriRedirect"]}],"tiles":[{"width":512,"scaleFactors":[1,2,4,8]}]}
+{"@context":"http://iiif.io/api/image/2/context.json","@id":"{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_1_1_1_1","protocol":"http://iiif.io/api/image","width":1452,"height":1314,"sizes":[{"width":1452,"height":1314},{"width":250,"height":226},{"width":90,"height":81}],"profile":["http://iiif.io/api/image/2/level0.json",{"supports":["cors","sizeByWhListed","baseUriRedirect"]}],"tiles":[{"width":512,"scaleFactors":[1,2,4,8]}]}
