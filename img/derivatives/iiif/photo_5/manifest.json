@@ -5,7 +5,7 @@ layout: none
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/photo_5/manifest.json",
   "@type": "sc:Manifest",
-  "label": "photo_5",
+  "label": "Photographic Evidence",
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",

@@ -5,7 +5,7 @@ layout: none
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sem_4/manifest.json",
   "@type": "sc:Manifest",
-  "label": "sem_4",
+  "label": "SEM/EDS Evidence",
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/sem_4_5/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
