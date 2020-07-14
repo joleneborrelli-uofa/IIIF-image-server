@@ -17,7 +17,7 @@ layout: none
         {
           "@type": "sc:Canvas",
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/sem_4_5.json",
-          "label": "front",
+          "label": "Page 1",
           "width": 1754,
           "height": 1240,
           "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/sem_4_5/full/250,/0/default.jpg",
