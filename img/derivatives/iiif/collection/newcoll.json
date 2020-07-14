@@ -8,6 +8,11 @@ layout: none
   "label": "newcoll",
   "manifests": [
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/analysis_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "analysis_4"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/background_1/manifest.json",
       "@type": "sc:Manifest",
       "label": "background_1"
