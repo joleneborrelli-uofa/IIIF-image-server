@@ -5,7 +5,7 @@ layout: none
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/analysis_4/manifest.json",
   "@type": "sc:Manifest",
-  "label": "Analysis",
+  "label": "analysis_4",
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/analysis_4_1/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",

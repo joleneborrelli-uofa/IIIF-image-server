@@ -5,8 +5,8 @@ layout: none
   "@type": "sc:Canvas",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_7.json",
   "label": "Page 7",
-  "width": 4032,
-  "height": 3024,
+  "width": 3024,
+  "height": 4032,
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_7/full/250,/0/default.jpg",
   "images": [
     {
@@ -22,8 +22,8 @@ layout: none
           "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_7",
           "profile": "http://iiif.io/api/image/2/level0.json"
         },
-        "width": 4032,
-        "height": 3024
+        "width": 3024,
+        "height": 4032
       },
       "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_7.json"
     }

@@ -9,8 +9,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_1.json",
       "label": "Page 1",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_1/full/250,/0/default.jpg",
       "images": [
         {
@@ -26,8 +26,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_1",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_1.json"
         }
@@ -37,8 +37,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_2.json",
       "label": "Page 2",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_2/full/250,/0/default.jpg",
       "images": [
         {
@@ -54,8 +54,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_2",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_2.json"
         }
@@ -65,8 +65,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_3.json",
       "label": "Page 3",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_3/full/250,/0/default.jpg",
       "images": [
         {
@@ -82,8 +82,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_3",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_3.json"
         }
@@ -93,8 +93,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_4.json",
       "label": "Page 4",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_4/full/250,/0/default.jpg",
       "images": [
         {
@@ -110,8 +110,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_4",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_4.json"
         }
@@ -121,8 +121,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_5.json",
       "label": "Page 5",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_5/full/250,/0/default.jpg",
       "images": [
         {
@@ -138,8 +138,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_5",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_5.json"
         }
@@ -149,8 +149,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_6.json",
       "label": "Page 6",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_6/full/250,/0/default.jpg",
       "images": [
         {
@@ -166,8 +166,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_6",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_6.json"
         }
@@ -177,8 +177,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_7.json",
       "label": "Page 7",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_7/full/250,/0/default.jpg",
       "images": [
         {
@@ -194,8 +194,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_7",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_7.json"
         }
@@ -205,8 +205,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_8.json",
       "label": "Page 8",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_8/full/250,/0/default.jpg",
       "images": [
         {
@@ -222,8 +222,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_8",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_8.json"
         }
@@ -233,8 +233,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_9.json",
       "label": "Page 9",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_9/full/250,/0/default.jpg",
       "images": [
         {
@@ -250,8 +250,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_1_9",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_1_9.json"
         }
@@ -261,8 +261,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_2_1.json",
       "label": "Page 10",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_2_1/full/250,/0/default.jpg",
       "images": [
         {
@@ -278,8 +278,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_2_1",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_2_1.json"
         }
@@ -317,8 +317,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_2_3.json",
       "label": "Page 12",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_2_3/full/250,/0/default.jpg",
       "images": [
         {
@@ -334,8 +334,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_2_3",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_2_3.json"
         }
@@ -345,8 +345,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_2_4.json",
       "label": "Page 13",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_2_4/full/250,/0/default.jpg",
       "images": [
         {
@@ -362,8 +362,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_2_4",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_2_4.json"
         }
@@ -625,8 +625,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_3_5.json",
       "label": "Page 23",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_3_5/full/250,/0/default.jpg",
       "images": [
         {
@@ -642,8 +642,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_3_5",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_3_5.json"
         }
@@ -653,8 +653,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_3_6.json",
       "label": "Page 24",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_3_6/full/250,/0/default.jpg",
       "images": [
         {
@@ -670,8 +670,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_3_6",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_3_6.json"
         }
@@ -709,8 +709,8 @@ layout: none
       "@type": "sc:Canvas",
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_3_8.json",
       "label": "Page 26",
-      "width": 4032,
-      "height": 3024,
+      "width": 3024,
+      "height": 4032,
       "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_3_8/full/250,/0/default.jpg",
       "images": [
         {
@@ -726,8 +726,8 @@ layout: none
               "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_5_1_3_8",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
-            "width": 4032,
-            "height": 3024
+            "width": 3024,
+            "height": 4032
           },
           "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_5_1_3_8.json"
         }
