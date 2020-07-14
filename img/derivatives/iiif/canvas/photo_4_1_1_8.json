@@ -4,7 +4,7 @@ layout: none
 {
   "@type": "sc:Canvas",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/photo_4_1_1_8.json",
-  "label": "Page 5",
+  "label": "Page 8",
   "width": 2497,
   "height": 2596,
   "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/photo_4_1_1_8/full/250,/0/default.jpg",
